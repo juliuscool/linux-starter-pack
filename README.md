@@ -24,4 +24,4 @@ sudo apt-get install build-essential -y
 
 ## Important links
 
-[Pop!_OS starter pack](https://techhut.tv/5-things-to-do-after-installing-pop-os/)
+- [Pop!_OS starter pack](https://techhut.tv/5-things-to-do-after-installing-pop-os/)
