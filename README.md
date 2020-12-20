@@ -1,4 +1,4 @@
-# linux-starter-pack
+# ubuntu-starter-pack
 
 ## Update and Upgrade
 
