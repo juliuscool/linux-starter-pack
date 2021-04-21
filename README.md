@@ -26,3 +26,4 @@ sudo apt-get install build-essential -y
 
 - [Pop!_OS starter pack](https://techhut.tv/5-things-to-do-after-installing-pop-os/)
 - [Installing WINE on Pop_! OS](https://wine.htmlvalidator.com/install-wine-on-pop_os-20.04.html)
+- [Must Have Ubuntu Apps](https://www.omgubuntu.co.uk/2016/12/21-must-have-apps-ubuntu)
